@@ -30,6 +30,9 @@ CMPG 323 Project 2 - <32937423>:
   resource – aligning to the project's requirements. The RESTful API architecture has several 
   endpoints called over HTTP, invoking application code to update a database. 
   ![image](https://user-images.githubusercontent.com/92325994/184698192-7f239501-705b-4df0-9c73-f33a46848ac1.png)
+  
+  Branching Strategy
+  Gitflow: This enables parallel development where developers can work separately from the master branch on features where a feature branch is created from     the master branch. Afterwards, when changes are complete, the developer merges these changes back to the master branch for release.
 
 
 CMPG 323 Project 3 - <32937423>:
@@ -41,6 +44,7 @@ CMPG 323 Project 3 - <32937423>:
   As part of this project, you will be expected to understand architectural patterns as well as pay 
   specific attention to implementing coding principles and design patterns – aligning to the
   requirements of the project.
+  
   
 CMPG 323 Project 4 - <32937423>:
   Overview
