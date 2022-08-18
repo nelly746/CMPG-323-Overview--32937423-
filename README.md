@@ -1,8 +1,14 @@
 # CMPG-323-Overview--32937423-
 CMPG 323 Project 1 Agile and Scrum
-
 Repositories to be created
 CMPG 323 Overview - <32937423>
+   Branching Strategy All Projects
+    Gitflow: This enables parallel development where developers can work separately from the master branch on features where a feature branch is created from     the master branch. Afterwards, when changes are complete, the developer merges these changes back to the master branch for release.
+    
+   .gitignore file (All repositories):
+      this is a file that is plain text file where each line contains a pattern for files/directories to ignore when other files of the project folder is           being pushed to github and this file will contain all the files to ignore.
+   Seperate submissions for all the projects named below
+   
 CMPG 323 Project 2 - <32937423>:
   Overview
   Smart devices such as voice controllers, security lights, smart locks and Wi-Fi-enabled devices 
@@ -30,9 +36,7 @@ CMPG 323 Project 2 - <32937423>:
   resource – aligning to the project's requirements. The RESTful API architecture has several 
   endpoints called over HTTP, invoking application code to update a database. 
   ![image](https://user-images.githubusercontent.com/92325994/184698192-7f239501-705b-4df0-9c73-f33a46848ac1.png)
-  
-  Branching Strategy
-  Gitflow: This enables parallel development where developers can work separately from the master branch on features where a feature branch is created from     the master branch. Afterwards, when changes are complete, the developer merges these changes back to the master branch for release.
+ 
 
 
 CMPG 323 Project 3 - <32937423>:
